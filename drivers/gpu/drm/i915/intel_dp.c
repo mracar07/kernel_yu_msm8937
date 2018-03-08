@@ -6232,3 +6232,4 @@ void intel_dp_mst_resume(struct drm_device *dev)
 		}
 	}
 }
+
