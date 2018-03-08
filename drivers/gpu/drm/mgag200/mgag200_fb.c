@@ -318,3 +318,4 @@ void mgag200_fbdev_fini(struct mga_device *mdev)
 
 	mga_fbdev_destroy(mdev->dev, mdev->mfbdev);
 }
+
